@@ -1,0 +1,6 @@
+body {
+    background-color: #020817;
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    scroll-behavior: smooth;
+}
